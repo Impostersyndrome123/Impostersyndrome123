@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Impostersyndrome123
-- 👀 I’m interested in ... mastering linux along with python and many other coding languages
-- 🌱 I’m currently learning ... linux and python
-- 💞️ I’m looking to collaborate on ... projects involving security 
+- 👀 I’m interested in ... becoming a good programmer.
+- 🌱 I’m currently learning ... c++ && react.
+- 💞️ I’m looking to collaborate on ... projects that will take me a step further to the moment where all this CS stuff clicks lol.
 - 📫 How to reach me ... message me through here.
 
 <!---
